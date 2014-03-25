@@ -5,6 +5,8 @@ Research/Links about remote work for Software Developers
 
 ## Blog posts:
 
+- [Ask HN: Tools you use for remote working?](https://news.ycombinator.com/item?id=6906979)
+
 - [MAKING REMOTE WORK WORK](https://source.opennews.org/en-US/learning/making-remote-work-work/)
 
 - [21 Months In: How to Manage a Remote Team](https://zapier.com/blog/how-manage-remote-team/)
@@ -54,3 +56,4 @@ Research/Links about remote work for Software Developers
 ## Other stuff
 - Code together like you’re at the same desk -> http://screenhero.com/
 - Jobs board -> https://weworkremotely.com/
+- Product management https://www.prodpad.com/
