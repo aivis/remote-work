@@ -39,6 +39,8 @@ Research/Links about remote work for Software Developers
 
 - [How Atlassian does it: 3 tips for remote teamwork]( http://blogs.atlassian.com/2013/07/how-atlassian-does-it-3-tips-for-remote-teamwork/)
 
+- [A Slew of Tips for Working Across Time Zones](https://www.linkedin.com/today/post/article/20140414155009-2157554-a-slew-of-tips-for-working-across-time-zones)
+
 ## Books:
 - Remote: Office Not Required (Jason Fried)
 
