@@ -15,6 +15,8 @@ Research/Links about remote work for Software Developers
 
 - [How GitHub Works: Be Asynchronous](http://zachholman.com/posts/how-github-works-asynchronous/)
 
+- [How We Use Slack for Remote Communication](http://simplifythenoise.com/how-we-use-slack-for-remote-communication/)
+
 - [Methods of Working with Remote Developers](http://jumpstartcto.com/methods-of-working-with-remote-developers/)
 
 - [Making Remote Work Work: An Adventure in Time and Space](http://blog.mongohq.com/making-remote-work-work-an-adventure-in-time-and-space/)
